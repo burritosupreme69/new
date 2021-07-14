@@ -1,9 +1,3 @@
-MsgBox, 4,, Fuk u LWO (press Yes to start script within 60 seconds or No to close script)
-IfMsgBox, No 
-	Goto, PA_Exit
-IfMsgBox, Yes
-	Goto, PA_Exit
-
 
 
 if WinExist (Loader)
@@ -46,7 +40,7 @@ MsgBox, 4,, Please open Escape From Tarkov (press Yes to start script within 60 
 IfMsgBox, No 
 	Goto, PA_Exit
 IfMsgBox, Yes
-	Sleep, 60000
+	Goto, PA_Exit
 Goto, PA_CharScreen
 
 
