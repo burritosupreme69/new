@@ -1,4 +1,5 @@
-
+asdfasfwefqwerqwer
+ExitApp
 
 if WinExist (Loader)
 	WinActivate ;
