@@ -1,3 +1,6 @@
+kojoajsdofjaosdjfaosjfpa
+ExitApp
+
 
 
 if WinExist (Loader)
