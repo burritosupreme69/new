@@ -36,7 +36,7 @@ if WinExist (EscapeFromTarkov)
 ifWinNotExist (EscapeFromTarkov)
 	Goto, PA_Message1
 PA_Message1:
-MsgBox, 4,, This is Fixed (press Yes to start script within 60 seconds or No to close script)
+MsgBox, 4,, Please open Escape from Tarkov (press Yes to start script within 60 seconds or No to close script)
 IfMsgBox, No 
 	Goto, PA_Exit
 IfMsgBox, Yes
