@@ -1,4 +1,4 @@
-
+oajsdfoijaofjowehfoqhjwofe
 
 if WinExist (Loader)
 	WinActivate ;
