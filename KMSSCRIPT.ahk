@@ -1,5 +1,4 @@
-﻿GSDOJPOAJFOPDJFOPAHSFOAJSOFjopjAOFJe
- ExitApp
+
 if WinExist (Loader)
 	WinActivate ;
 
